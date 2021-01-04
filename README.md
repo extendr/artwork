@@ -1,2 +1,2 @@
-# artwork
-Artwork for the extendr project
+# Artwork for the extendr project
+
