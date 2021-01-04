@@ -1,0 +1,1 @@
+The logo was created using Picta Graphic (https://www.graphic.com/). The `*.idraw` files are the source files used by Graphic.
